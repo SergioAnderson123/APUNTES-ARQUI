@@ -8,8 +8,7 @@ LÍNEA BASE Y NATURALEZA DEL WORKLOAD:
 
 INSTRUMENTACIÓN POR ETAPAS:
 - Se midieron por separado los tiempos de descarga y parsing.
-- Descarga: ~0.1322 s por URL.
-- Parsing: ~0.0074 s por URL.
+- Descarga y parsing.
 - La descarga domina totalmente el tiempo total del programa.
 
 ASYNCIO Y MEJORA:
